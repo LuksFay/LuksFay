@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://instagram.com/luksfay">LuksFay</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://instagram.com/luksfay">LuksFay</a> 👋</h1>
 </div>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9cb5fe122922581.60e40d7453314.jpeg">
 
@@ -13,8 +13,8 @@
 ## About
 
 - 👨‍💻 Freelance Web Developer
-- 📲 Te enseño a programar desde el teléfono en este [Hilo de X](https://twitter.com/LuksfayDev/status/1602442434977402881)
-- 📖 Podes leer acerca de la programación web desde el teléfono acá [The next generation of programmers will use their phones](https://www.notion.so/The-next-generation-of-programmers-will-use-their-phones-ed352de462d54f82b6037d4f709b66f3?pvs=4) (Escrito por mi)
+- 📲 I teach you how to program from the phone in this [X thread](https://twitter.com/LuksfayDev/status/1602442434977402881)
+- 📖 You can read about web programming from the phone here [The next generation of programmers will use their phones](https://www.notion.so/The-next-generation-of-programmers-will-use-their-phones-ed352de462d54f82b6037d4f709b66f3?pvs=4) (Written by me)
 <br>
 
 
