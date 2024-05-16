@@ -7,11 +7,9 @@
 <!--
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)-->
 
-## About
-
-- 👨‍💻 Freelance Web Developer
-- 📲 I teach you how to program from the phone in this [X thread](https://twitter.com/LuksfayDev/status/1602442434977402881)
-- 📖 You can read about web programming from the phone here [The next generation of programmers will use their phones](https://www.notion.so/The-next-generation-of-programmers-will-use-their-phones-ed352de462d54f82b6037d4f709b66f3?pvs=4) (Written by me)
+# About
+## 📲 I teach you how to program from the phone in this [X thread](https://twitter.com/LuksfayDev/status/1602442434977402881)
+## 📖 You can read about web programming from the phone here [The next generation of programmers will use their phones](https://www.notion.so/The-next-generation-of-programmers-will-use-their-phones-ed352de462d54f82b6037d4f709b66f3?pvs=4)
 <br>
 
 
