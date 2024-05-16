@@ -11,7 +11,10 @@
 ## 📲 I teach you how to program from the phone in this [X thread](https://twitter.com/LuksfayDev/status/1602442434977402881)
 ## 📖 You can read about web programming from the phone here [The next generation of programmers will use their phones](https://www.notion.so/The-next-generation-of-programmers-will-use-their-phones-ed352de462d54f82b6037d4f709b66f3?pvs=4)
 <br>
-
+<!--
+### It is possible to make manga or storys with IA and some imagination?
+<img align="right" width="300" height="300" src='https://mir-s3-cdn-cf.behance.net/project_modules/source/6a28d5198735147.6645e9efac759.jpg' alt='Manga Panel'/>
+#### Maybe-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
