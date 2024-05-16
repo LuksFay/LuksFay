@@ -1,7 +1,4 @@
-<div align="center">
-  <h1 align="center" onclick="document.getElementById('nombreEnlace').textContent = 'Luksfay';">Hello, I'm <a id="nombreEnlace" href="https://instagram.com/luksfay">nombre</a> 👋</h1>
-</div>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9cb5fe122922581.60e40d7453314.jpeg">
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDh2zFblejH_z8ar3pIjMHQ?style=social)](https://youtube.com/luksfay?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/luksfay?style=social)](https://www.twitch.tv/luksfay)
