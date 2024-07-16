@@ -1,4 +1,4 @@
-<img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/e1d490198735147.6645e80ec3809.jpg' alt='Portada'/>
+<img src='https://mir-s3-cdn-cf.behance.net/project_modules/source/6104c5198735147.66970323c32f0.png' alt='Portada'/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDh2zFblejH_z8ar3pIjMHQ?style=social)](https://youtube.com/luksfay?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/luksfay?style=social)](https://www.twitch.tv/luksfay)
