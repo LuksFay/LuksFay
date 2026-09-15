@@ -1,14 +1,6 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/097272198735147.683605f4d4122.png' alt='Portada'/>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDh2zFblejH_z8ar3pIjMHQ?style=social)](https://youtube.com/luksfay?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/luksfay?style=social)](https://www.twitch.tv/luksfay)
-[![GitHub followers](https://img.shields.io/github/followers/luksfay?style=social)](https://github.com/luksfay)
-[![Twitter: LuksFaydev](https://img.shields.io/twitter/follow/luksfaydev)](https://twitter.com/luksfaydev)
-<!--
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)-->
-
-# Some News
-## 📲 I teach you how to program from the phone in this [X thread](https://twitter.com/LuksfayDev/status/1602442434977402881)
+## 📲 [Cómo programar con un teléfono](https://twitter.com/LuksfayDev/status/1602442434977402881)
 ## 📖 You can read about web programming from the phone here [The next generation of programmers will use their phones](https://www.notion.so/The-next-generation-of-programmers-will-use-their-phones-ed352de462d54f82b6037d4f709b66f3?pvs=4)
 <br>
 <!--
